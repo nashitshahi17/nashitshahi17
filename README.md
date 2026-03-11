@@ -16,41 +16,23 @@ Focused on **DevOps practices, CI/CD pipelines, Kubernetes orchestration, and cl
 - 📈 Learning **scalable infrastructure and system reliability**
 
 ---
+## ⚡ Tech Stack
 
-## ⚙️ Tech Stack
 ### Languages & Frameworks
-- Python
-- Java
-- Django
-- HTML
-- CSS
-- JavaScript
-### ☁️ Cloud Platforms
-- AWS
-- Microsoft Azure
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,django,js,html,css" />
+</p>
 
-### 🐳 Containerization & Orchestration
-- Docker
-- Kubernetes
-- Helm
+### Cloud & DevOps
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,argocd" />
+</p>
 
-### 🔧 Infrastructure as Code
-- Terraform
+### Databases & Monitoring
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,prometheus,grafana" />
+</p>
 
-### 🔁 CI/CD
-- Jenkins
-- ArgoCD
-
-### 🖥️ Operating Systems
-- Ubuntu
-- Windows
-
-### 📦 Monitoring & Logging
-- Prometheus
-- Grafana
-
-### 💾 Databases
-- MySQL
 
 ---
 
