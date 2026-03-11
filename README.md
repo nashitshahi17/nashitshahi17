@@ -69,10 +69,6 @@ Containerized backend services and deployed them on Kubernetes.
 <img src="https://skillicons.dev/icons?i=github" width="40" />
 </a>
 
-<a href="https://twitter.com/YOUR_TWITTER">
-<img src="https://skillicons.dev/icons?i=twitter" width="40" />
-</a>
-
 </p>
 ---
 
