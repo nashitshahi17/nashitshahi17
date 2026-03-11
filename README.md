@@ -1,0 +1,99 @@
+# Hi 👋 I'm Nashit Shahi
+
+## ☁️ Cloud DevOps Engineer
+
+Passionate about building **scalable cloud infrastructure, automation pipelines, and containerized applications.** 
+Focused on **DevOps practices, CI/CD pipelines, Kubernetes orchestration, and cloud-native technologies.**
+
+---
+
+## 🚀 About Me
+
+- ☁️ Cloud & DevOps enthusiast 
+- 🐳 Working with **Docker and Kubernetes**
+- 🔧 Interested in **Infrastructure as Code**
+- 📦 Deploying **cloud-native applications**
+- 📈 Learning **scalable infrastructure and system reliability**
+
+---
+
+## ⚙️ Tech Stack
+### Languages & Frameworks
+- Python
+- Java
+- Django
+- HTML
+- CSS
+- JavaScript
+### ☁️ Cloud Platforms
+- AWS
+- Microsoft Azure
+
+### 🐳 Containerization & Orchestration
+- Docker
+- Kubernetes
+- Helm
+
+### 🔧 Infrastructure as Code
+- Terraform
+
+### 🔁 CI/CD
+- Jenkins
+- ArgoCD
+
+### 🖥️ Operating Systems
+- Ubuntu
+- Windows
+
+### 📦 Monitoring & Logging
+- Prometheus
+- Grafana
+
+### 💾 Databases
+- MySQL
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nashitshahi17&show_icons=true&theme=tokyonight)
+
+---
+## 📈 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nashitshahi17&layout=compact&theme=tokyonight)
+
+---
+
+## 📂 Featured Projects
+
+### Dockerized Microservices
+Containerized backend services and deployed them on Kubernetes.
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/](https://www.linkedin.com/in/md-nashit-perwaiz-shahi17/
+- Email: nashitshahi17@gmail.com
+- GitHub: https://github.com/YOUR_USERNAME](https://github.com/nashitshahi17
+
+---
+
+⭐ From [nashitshahi17](https://github.com/nashitshahi17)
+
+
+<!--
+**nashitshahi17/nashitshahi17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
