@@ -53,13 +53,27 @@ Focused on **DevOps practices, CI/CD pipelines, Kubernetes orchestration, and cl
 Containerized backend services and deployed them on Kubernetes.
 
 ---
+## 🤝 Connect With Me
 
-## 📫 Connect With Me
+<p align="left">
 
-- LinkedIn: https://linkedin.com/in/](https://www.linkedin.com/in/md-nashit-perwaiz-shahi17/
-- Email: nashitshahi17@gmail.com
-- GitHub: https://github.com/YOUR_USERNAME](https://github.com/nashitshahi17
+<a href="https://www.linkedin.com/in/md-nashit-perwaiz-shahi17/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+</a>
 
+<a href="mailto:nashitshahi17@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="40" />
+</a>
+
+<a href="https://github.com/nashitshahi17">
+<img src="https://skillicons.dev/icons?i=github" width="40" />
+</a>
+
+<a href="https://twitter.com/YOUR_TWITTER">
+<img src="https://skillicons.dev/icons?i=twitter" width="40" />
+</a>
+
+</p>
 ---
 
 ⭐ From [nashitshahi17](https://github.com/nashitshahi17)
