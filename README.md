@@ -25,7 +25,7 @@ Focused on **DevOps practices, CI/CD pipelines, Kubernetes orchestration, and cl
 
 ### Cloud & DevOps
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,argocd" />
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,argocd" />
 </p>
 
 ### Databases & Monitoring
