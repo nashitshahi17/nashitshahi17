@@ -2,90 +2,112 @@
 
 ## ☁️ Cloud DevOps Engineer
 
-Passionate about building **scalable cloud infrastructure, automation pipelines, and containerized applications.** 
-Focused on **DevOps practices, CI/CD pipelines, Kubernetes orchestration, and cloud-native technologies.**
+Passionate about designing **scalable cloud infrastructure, automating deployment pipelines, and building cloud-native applications**. I enjoy solving infrastructure challenges through **DevOps practices, Kubernetes orchestration, Infrastructure as Code, and CI/CD automation**.
 
 ---
 
 ## 🚀 About Me
 
-- ☁️ Cloud & DevOps enthusiast 
-- 🐳 Working with **Docker and Kubernetes**
-- 🔧 Interested in **Infrastructure as Code**
-- 📦 Deploying **cloud-native applications**
-- 📈 Learning **scalable infrastructure and system reliability**
+- ☁️ Building scalable cloud-native applications
+- 🐳 Working with Docker & Kubernetes
+- ⚙️ Automating deployments using CI/CD pipelines
+- 🌍 Learning cloud architecture and Site Reliability Engineering (SRE)
+- 📚 Exploring Infrastructure as Code with Terraform
+- 📈 Interested in cloud security, observability, and production-grade systems
 
 ---
+
 ## ⚡ Tech Stack
 
-### Languages & Frameworks
+### 💻 Languages & Frameworks
+
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,django,js,html,css" />
+<img src="https://skillicons.dev/icons?i=python,java,javascript,react,html,css" />
 </p>
 
-### Cloud & DevOps
+### ☁️ Cloud & DevOps
+
 <p>
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,argocd" />
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,githubactions,terraform,argocd" />
 </p>
 
-### Databases & Monitoring
+### 📊 Monitoring & Databases
+
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,prometheus,grafana" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,prometheus,grafana" />
 </p>
 
+### 🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nashitshahi17&show_icons=true&theme=tokyonight)
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nashitshahi17&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nashitshahi17&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=nashitshahi17&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
-## 📈 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nashitshahi17&layout=compact&theme=tokyonight)
+## 📂 Featured Project
+
+### ☁️ CloudCart
+
+A **cloud-native microservices-based e-commerce platform** built to demonstrate modern **DevOps and cloud engineering practices**.
+
+### Highlights
+
+- 🏗️ Microservices architecture for Users, Products, Orders, Payments, and Notifications
+- 🌐 API Gateway for centralized routing
+- 🐳 Containerized using Docker
+- ☸️ Deployed on Kubernetes
+- ⚙️ CI/CD automation using GitHub Actions & ArgoCD
+- 🌍 Infrastructure provisioned using Terraform
+- 📊 Monitoring and observability with Prometheus & Grafana
+
+**Project Summary**
+
+> CloudCart is a cloud-native microservices e-commerce platform that demonstrates end-to-end DevOps practices, including containerization, Kubernetes orchestration, Infrastructure as Code, CI/CD automation, and monitoring in a production-like environment.
 
 ---
 
-## 📂 Featured Projects
+## 🌱 Currently Learning
 
-### Dockerized Microservices
-Containerized backend services and deployed them on Kubernetes.
+- Kubernetes Advanced Concepts
+- AWS Cloud Services
+- GitOps Workflows
+- Infrastructure as Code
+- Site Reliability Engineering (SRE)
 
 ---
+
 ## 🤝 Connect With Me
 
 <p align="left">
 
 <a href="https://www.linkedin.com/in/md-nashit-perwaiz-shahi17/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
 </a>
 
 <a href="mailto:nashitshahi17@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="40" />
+<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
 </a>
 
 <a href="https://github.com/nashitshahi17">
-<img src="https://skillicons.dev/icons?i=github" width="40" />
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
 </a>
 
 </p>
+
 ---
 
-⭐ From [nashitshahi17](https://github.com/nashitshahi17)
-
-
-<!--
-**nashitshahi17/nashitshahi17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ **Thanks for visiting my profile!**
